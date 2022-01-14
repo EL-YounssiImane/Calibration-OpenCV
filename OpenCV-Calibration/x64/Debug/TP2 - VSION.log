@@ -1,0 +1,12 @@
+﻿  TP2 - VSION.cpp
+E:\VSION\TP2 - OpenCV-Calibration\TP2 - VSION.cpp(61,50): warning C4244: 'argument' : conversion de 'int' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+E:\VSION\TP2 - OpenCV-Calibration\TP2 - VSION.cpp(61,47): warning C4244: 'argument' : conversion de 'int' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=float
+          ]
+  TP2 - VSION.vcxproj -> E:\VSION\TP2 - OpenCV-Calibration\x64\Debug\TP2 - VSION.exe
